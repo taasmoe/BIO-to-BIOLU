@@ -1,6 +1,6 @@
 # BIO-to-BIOLU
 
-The [CoNLL 2003 NER dataset](http://www.aclweb.org/anthology/W03-0419) is annotated using the BIO labeling scheme. Each word is labelled with respect to where it is located relative to a named entity (NE), using the three following markers:
+The [CoNLL 2003 NER dataset](http://www.aclweb.org/anthology/W03-0419) is annotated using the BIO labeling scheme. Each word is labelled in accordance to where its location relative to a named entity (NE), using the three following markers:
 
 * _B_   for the first token of a NE, 
 * _I_   for tokens inside NE's, 
