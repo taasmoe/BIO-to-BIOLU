@@ -19,4 +19,7 @@ Run the following in the command line, where you specify the path of the origina
 python biolu_encode.py bio_path biolu_path
 ```
 
-Tested for Python 3.6
+Tested for Python 3.6.
+
+## Examples
+_eng-biolu.toy_ is the result when converting _eng.toy_
