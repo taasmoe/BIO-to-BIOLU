@@ -10,7 +10,7 @@ A labelling scheme shown to outperform BIO is the BIOLU scheme [[Ratinov and Rot
 * **L-**   for the last tokens of NE's, 
 * **U-**   for unit length NE's.
 
-This script converts a BIO-encoded file to BIOLU.
+This Python script converts a BIO-encoded file to BIOLU.
 
 ## Usage
 Run the following in the command line, where you specify the path of the original BIO encoded file and the name of your converted file.
