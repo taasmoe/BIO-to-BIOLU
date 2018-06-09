@@ -2,9 +2,9 @@
 
 The [CoNLL 2003 NER dataset](http://www.aclweb.org/anthology/W03-0419) is annotated using the BIO labeling scheme. Each word is labelled in accordance with its location relative to a named entity (NE), using the three following markers:
 
-* **B**   for the first token of a NE, 
+* **B-**   for the first token of a NE, 
 * **I-**   for tokens inside NE's, 
-* **O**   for tokens outside any NE. 
+* **O-**   for tokens outside any NE. 
 
 A labelling scheme shown to outperform BIO is the BIOLU scheme [[Ratinov and Roth, 2009](http://www.aclweb.org/anthology/W09-1119)], where two additional markers are included:
 * **L-**   for the last tokens of NE's, 
